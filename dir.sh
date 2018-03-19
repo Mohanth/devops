@@ -1,1 +1,1 @@
-mkdir  trial2
+service apache2 stop
