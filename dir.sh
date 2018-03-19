@@ -1,1 +1,1 @@
-mkdir  trial1
+mkdir  trial2
