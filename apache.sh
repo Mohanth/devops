@@ -1,1 +1,1 @@
-service apahce2 restart
+sudo service apahce2 restart
