@@ -1,1 +1,1 @@
-/etc/init.d/service apache2 restart
+sudo service apache2 stop
