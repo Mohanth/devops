@@ -1,1 +1,1 @@
-mkdir  technical
+mkdir  seminar
