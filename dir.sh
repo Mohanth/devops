@@ -1,1 +1,1 @@
-apt-get install xterm
+sudo -i apt-get install xterm
