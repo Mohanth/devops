@@ -1,1 +1,1 @@
-sudo -i apt-get install xterm
+systemctl stop apache2.service
