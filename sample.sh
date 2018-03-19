@@ -1,1 +1,1 @@
-mkdir mohanth
+service apache2 restart
