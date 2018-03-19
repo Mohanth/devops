@@ -1,4 +1,5 @@
 cd ~
 cd ..
 cd /home/mohanth
-service apahce2 restart
+/etc/init.d/apache2 start
+
