@@ -1,1 +1,1 @@
-service apache2 restart
+/etc/init.d/service apache2 restart
