@@ -1,1 +1,1 @@
-sudo service apache2 stop
+su service apache2 stop
