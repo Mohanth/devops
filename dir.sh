@@ -1,3 +1,5 @@
-#!/bin/bash
-
-x-terminal-emulator -e "/etc/init.d/ccpd status"  --window-with-profile=NAMEOFTHEPROFILE
+for i in 1 2 3 4
+do
+# opens terminal but then I can't control terminal afterwards
+x-terminal-emulator -hold -e "echo Hello My World" &
+done
