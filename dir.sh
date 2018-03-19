@@ -1,1 +1,1 @@
-mkdir  seminar
+mkdir  devops-seminar
