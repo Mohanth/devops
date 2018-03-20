@@ -1,1 +1,1 @@
-mkdir sample
+mkdir seminar
